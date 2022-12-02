@@ -1,0 +1,22 @@
+p {
+   color:red;
+}
+
+.tlo {
+   
+    background-color:blue;
+}
+
+h1 {
+   
+    background-color:yellow;
+}
+
+h3 {
+   
+    background-color:green;
+}
+
+h1 + h3 { 
+    color: red;
+}
